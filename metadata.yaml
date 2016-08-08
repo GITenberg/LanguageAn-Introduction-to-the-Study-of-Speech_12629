@@ -1,0 +1,38 @@
+_repo: LanguageAn-Introduction-to-the-Study-of-Speech_12629
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sapir, Edward
+    birthdate: 1884
+    deathdate: 1939
+    gutenberg_agent_id: '4464'
+    url: http://www.gutenberg.org/2009/agents/4464
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Sapir
+description: '"This little book aims to give a certain perspective on the subject
+  of language rather than to assemble facts about it. It has little to say of the
+  ultimate psychological basis of speech and gives only enough of the actual descriptive
+  or historical facts of particular languages to illustrate principles. Its main purpose
+  is to show what the author conceives language to be, what is its variability in
+  place and time, and what are its relations to other fundamental human interests--the
+  problem of thought, the nature of the historical process, race, culture, art. The
+  perspective thus gained will be useful, the author hopes, both to linguistic students
+  and to the outside public that is half inclined to dismiss linguistic notions as
+  the private pedantries of essentially idle minds"--Preface. (PsycINFO Database Record
+  (c) 2010 APA, all rights reserved).'
+gutenberg_bookshelf: Language Education
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12629'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'P'
+- !lcsh 'Language and languages'
+- GITenberg
+title: 'Language
+
+  An Introduction to the Study of Speech'
+url: http://www.gutenberg.org/ebooks/12629
