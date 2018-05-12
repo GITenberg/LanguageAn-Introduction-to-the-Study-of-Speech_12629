@@ -1,5 +1,8 @@
 _repo: LanguageAn-Introduction-to-the-Study-of-Speech_12629
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Sapir, Edward
@@ -19,6 +22,8 @@ description: '"This little book aims to give a certain perspective on the subjec
   and to the outside public that is half inclined to dismiss linguistic notions as
   the private pedantries of essentially idle minds"--Preface. (PsycINFO Database Record
   (c) 2010 APA, all rights reserved).'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12629#LanguageAn-Introduction-to-the-Study-of-Speech
 gutenberg_bookshelf: Language Education
 gutenberg_issued: '2004-06-01'
 gutenberg_type: Text
